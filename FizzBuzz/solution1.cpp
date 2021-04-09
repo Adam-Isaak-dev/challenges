@@ -1,3 +1,6 @@
+// Flaws
+// repetitive  - redundant code 
+// memory intensive - resutl repeatedly expands 
 class Solution {
 public:
     vector<string> fizzBuzz(int n) {
